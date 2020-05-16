@@ -1,5 +1,4 @@
-# binder_test
-
+Aprendendo a usar o Binder
 
 Esse material é um exercício do uso do Binder + Jupyter Notebooks + Github para criação de ambientes de demonstração de estudos.
 
