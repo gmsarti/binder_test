@@ -10,4 +10,4 @@ A ideia desse exercício é refazer o material no qual me apoio para entender o 
 
 
 Para acessar o Binder clique aqui:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke.mybinder.org/user/gmsarti-binder_test-9txesd2g/lab)
+[![Binder](https://mybinder.org/badge_logo.svg)]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gmsarti/binder_test/master)
